@@ -1,7 +1,1 @@
-nginx
-mysql
-redis
-bitnami/minio
-rabbitmq
-elasticsearch
 nacos/nacos-server
