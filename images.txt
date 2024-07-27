@@ -1,1 +1,1 @@
-macintoshplus/rabbitmq-management
+minio/minio
